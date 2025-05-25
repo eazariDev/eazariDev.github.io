@@ -1,26 +1,27 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Erfan Azari",
+    "label": "CE@AUT Graduate",
+    "picture": "https://github.com/eazariDev.png",
+    "email": "eazari.dev@gmail.com",
+    "phone": "0913-557-0971",
+    "website": "https://eazariDev.github.io",
+    "summary": "B.Sc. in Computer Engineering, Amirkabir University of Technology\nI love learning new technologies and building solutions that make a difference. Thanks for visiting my portfolio! Happy coding..!💻",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "eazariDev", "url": "http://github.com/eazariDev" },
+      { "network": "linkedin", "username": "Erfan Azari", "url": "https://www.linkedin.com/in/eazaridev/" },
+      { "network": "telegram", "username": "erfan_azarii", "url": "https://t.me/erfan_azarii" },
+      { "network": "instagram", "username": "erfanazarri", "url": "https://www.instagram.com/erfanazarri/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Python"},
+    { "name": "Django framework" },
+    { "name": "Backend development" },
+    { "name": "Crypto/Blockchain" },
+    { "name": "Design patterns" },
+    { "name": "SQL/NoSQL" },
   ],
   "skills": [
     {

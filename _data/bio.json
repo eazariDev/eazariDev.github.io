@@ -6,7 +6,7 @@
     "email": "eazari.dev@gmail.com",
     "phone": "0913-557-0971",
     "website": "https://eazariDev.github.io",
-    "summary": "B.Sc. in Computer Engineering, Amirkabir University of Technology\nI love learning new technologies and building solutions that make a difference. Thanks for visiting my portfolio! Happy coding..!💻",
+    "summary": "I am a passionate Software Engineer with a strong foundation in building innovative, scalable, and impactful web applications. With hands-on experience in back-end technologies like Django, Django REST Framework, and SQL/NoSQL databases, I excel in crafting solutions that are both functional and user-centered. I aim to leverage my technical skills and creative problem-solving abilities to drive innovation, enhance user experiences, and contribute to meaningful projects that make a difference."
     "location": { "address": "", "postalCode": "", "city": "tehran", "countryCode": "IR", "region": "Tehran" },
     "profiles": [
       { "network": "github", "username": "eazariDev", "url": "http://github.com/eazariDev" },
@@ -51,7 +51,7 @@
       "website": "https://fanavaran-sharif.com/",
       "startDate": "2023-06-01",
       "endDate": "2023-10-30",
-      "summary": "Design and develop An Iot system",
+      "summary": "Design and develop An Iot Project from scratch",
       "highlights": [
         "Learning about IOT and it’s architecture to implement a complete IOT project",
         "Connecting end devices to gateways, sending and receiving data in the processing engine(event processing layer)",

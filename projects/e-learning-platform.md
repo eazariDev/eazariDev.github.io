@@ -31,16 +31,6 @@ E-learning platform is a modern, scalable, and extensible web-based e-learning p
 - 🐳 Full Dockerized setup with Nginx, PostgreSQL, Redis
 - ⚙️ ASGI + Daphne for async support
 
-|     | Component         | Details                                                                                                                            |
-| :-- | :---------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
-| ⚙️  | **Architecture**  | <ul><li>Monolithic Django backend</li><li>ASGI with Channels</li><li>PostgreSQL + Redis</li><li>nginx reverse proxy</li></ul>      |
-| 🔩  | **Code Quality**  | <ul><li>Modular Django apps</li><li>Good use of settings structure</li><li>Consistent dependency versions</li></ul>                |
-| 🔌  | **Integrations**  | <ul><li>PostgreSQL</li><li>Redis (caching + Channels)</li><li>nginx</li><li>daphne</li></ul>                                       |
-| 🧩  | **Modularity**    | <ul><li>Separate Django apps: courses, students, chat</li><li>Logical separation of static/media/configs</li></ul>                 |
-| ⚡️  | **Performance**   | <ul><li>Redis caching layer</li><li>uwsgi for WSGI</li><li>daphne for ASGI</li></ul>                                               |
-| 🛡️ | **Security**      | <ul><li>Environment-based secrets via `python-decouple`</li><li>nginx SSL config present</li><li>Prod config in settings</li></ul> |
-| 📦  | **Dependencies**  | <ul><li>Django 5.0.4</li><li>Channels</li><li>DRF</li><li>Redis</li><li>Pillow</li></ul>                                           |
-| 🚀  | **Scalability**   | <ul><li>Containerized via Docker</li><li>ASGI for real-time features</li><li>Decoupled db/cache services</li></ul>                 |
-
+---
 
 Source: <a href="https://github.com/eazariDev/e-learning-platform">eazariDev/e-learning-platform</a>

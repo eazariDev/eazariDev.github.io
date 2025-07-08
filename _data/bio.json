@@ -12,7 +12,7 @@
       { "network": "github", "username": "eazariDev", "url": "http://github.com/eazariDev" },
       { "network": "linkedin", "username": "Erfan Azari", "url": "https://www.linkedin.com/in/eazaridev/" },
       { "network": "telegram", "username": "erfan_azarii", "url": "https://t.me/erfan_azarii" },
-      { "network": "instagram", "username": "erfanazarri", "url": "https://www.instagram.com/erfanazarri/" }
+      { "network": "resume", "username": "erfanazarri", "url": "./my_resume.pdf" }
     ]
   },
   "interests": [
